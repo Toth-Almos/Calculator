@@ -2,12 +2,7 @@
 This application is one of my projects I did during my summer vacation. 
 The main purpose of this project was to practice and learn.
 
-This is a Java Calculator. 
-The application can make calculation with one and two operands, for example: 
-addition with two operand, logarithm with one operand, etc. 
-The app also contains the pi and e values. 
-If there is an incorrect input the app won't show any result and writes "error" to the console.
-I may make an information button to show this information in the application.
+#### This is a Java Calculator. The application can make calculation with one and two operands, for example: addition with two operand, logarithm with one operand, etc. The app also contains the values of 'e' and 'pi'. If there is an incorrect input the app won't show any result and writes "error" to the console. I may implement an information button to show this information in the application.
 
 
 # How to Run
